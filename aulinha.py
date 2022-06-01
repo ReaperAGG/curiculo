@@ -11,7 +11,7 @@ def imprimir():
 #window
 janela = Tk()
 
-#geometry
+#geometry 
 janela.geometry('400x300+500+500')
 janela.minsize(width=900, height=500)
 
